@@ -20,7 +20,7 @@ function App() {
       />
 
       <p>
-        Hint: It's <strong>open sesame</strong>
+        Hint: It's almost <strong>open sesame</strong>
       </p>
 
       <ScotchInfoBar seriesNumber={4} />
